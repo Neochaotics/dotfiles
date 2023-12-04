@@ -1,0 +1,22 @@
+(defwindow bigpowermenu
+  :monitor 0
+  :stacking "overlay"
+  :exclusive true
+  :focusable true
+  :namespace true
+  :geometry (geometry :width "30%" :anchor "center")
+  (bigpowermenu))
+
+(defpoll uptime :interval "60s"
+               'uptime -p')
+
+
+(defwidget bigpowermenu []
+  (box :class "power-menu"
+    (box :class "power-text" :orientation "v"
+    (label :text "Power Menu")
+    (label :text uptime))
+    (box :class "power-btns" :spacing "5"
+      (button :onclick "poweroff" "󰐥")
+      (button :onclick "reboot" "󰜉")
+      (button :onclick "loginctl kill-session self" "󰍃"))))
