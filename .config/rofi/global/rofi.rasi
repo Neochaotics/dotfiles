@@ -1,6 +1,6 @@
 configuration {
     font: "Inter Regular 10";
-    sidebar-mode: true;
+    sidebar-mode: false;
     show-icons: true;
     icon-theme: "Nordzy";
     fullscreen: false;

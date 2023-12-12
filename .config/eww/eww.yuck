@@ -1,3 +1,5 @@
+(include "/home/quinno/.config/eww/polybar-replacement/eww.yuck")
+
 (defwindow bigpowermenu
   :monitor 0
   :stacking "overlay"
