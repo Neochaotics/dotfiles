@@ -1,0 +1,450 @@
+[2023:12:27:11:29:08]: Info: Sunshine version: 0.21.0
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Name: DP-5
+[2023:12:27:11:29:08]: Info: Found monitor: VIZIO, Inc D24h-G9 (DP-5 via HDMI)
+[2023:12:27:11:29:08]: Info: Offset: 1920x156
+[2023:12:27:11:29:08]: Info: Resolution: 1366x768
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Name: DP-5
+[2023:12:27:11:29:08]: Info: Found monitor: VIZIO, Inc D24h-G9 (DP-5 via HDMI)
+[2023:12:27:11:29:08]: Info: Offset: 1920x156
+[2023:12:27:11:29:08]: Info: Resolution: 1366x768
+[2023:12:27:11:29:08]: Info: HDMI-A-1: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: DP-5: VIZIO, Inc D24h-G9 (DP-5 via HDMI)
+[2023:12:27:11:29:08]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2023:12:27:11:29:08]: Info: Trying encoder [nvenc]
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: System tray created
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 601]
+[2023:12:27:11:29:08]: Info: Color depth: 8-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Error: [AVHWDeviceContext @ 0x55fb544983c0] Cannot load libcuda.so.1
+[2023:12:27:11:29:08]: Error: [AVHWDeviceContext @ 0x55fb544983c0] Could not dynamically load CUDA
+[2023:12:27:11:29:08]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 601]
+[2023:12:27:11:29:08]: Info: Color depth: 8-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Error: [AVHWDeviceContext @ 0x55fb5426b880] Cannot load libcuda.so.1
+[2023:12:27:11:29:08]: Error: [AVHWDeviceContext @ 0x55fb5426b880] Could not dynamically load CUDA
+[2023:12:27:11:29:08]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 601]
+[2023:12:27:11:29:08]: Info: Color depth: 8-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Error: [AVHWDeviceContext @ 0x55fb54339040] Cannot load libcuda.so.1
+[2023:12:27:11:29:08]: Error: [AVHWDeviceContext @ 0x55fb54339040] Could not dynamically load CUDA
+[2023:12:27:11:29:08]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 601]
+[2023:12:27:11:29:08]: Info: Color depth: 8-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Error: [AVHWDeviceContext @ 0x55fb543a94c0] Cannot load libcuda.so.1
+[2023:12:27:11:29:08]: Error: [AVHWDeviceContext @ 0x55fb543a94c0] Could not dynamically load CUDA
+[2023:12:27:11:29:08]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:12:27:11:29:08]: Info: Encoder [nvenc] failed
+[2023:12:27:11:29:08]: Info: Trying encoder [vaapi]
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 601]
+[2023:12:27:11:29:08]: Info: Color depth: 8-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Warning: [h264_vaapi @ 0x55fb5435f880] Driver does not support some wanted packed headers (wanted 0xd, found 0x1).
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 601]
+[2023:12:27:11:29:08]: Info: Color depth: 8-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Warning: [hevc_vaapi @ 0x55fb5435f880] Driver does not support some wanted packed headers (wanted 0xd, found 0x1).
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 601]
+[2023:12:27:11:29:08]: Info: Color depth: 8-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Error: [av1_vaapi @ 0x55fb5435f880] No usable encoding entrypoint found for profile VAProfileAV1Profile0 (32).
+[2023:12:27:11:29:08]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 601]
+[2023:12:27:11:29:08]: Info: Color depth: 8-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Error: [av1_vaapi @ 0x55fb54293140] No usable encoding entrypoint found for profile VAProfileAV1Profile0 (32).
+[2023:12:27:11:29:08]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 601]
+[2023:12:27:11:29:08]: Info: Color depth: 8-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Error: [av1_vaapi @ 0x55fb54293140] No usable encoding entrypoint found for profile VAProfileAV1Profile0 (32).
+[2023:12:27:11:29:08]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 601]
+[2023:12:27:11:29:08]: Info: Color depth: 8-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Error: [av1_vaapi @ 0x55fb54293140] No usable encoding entrypoint found for profile VAProfileAV1Profile0 (32).
+[2023:12:27:11:29:08]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2023:12:27:11:29:08]: Info: Screencasting with Wayland's protocol
+[2023:12:27:11:29:08]: Info: Found display [wayland-1]
+[2023:12:27:11:29:08]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:11:29:08]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:11:29:08]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:11:29:08]: Info: Name: HDMI-A-1
+[2023:12:27:11:29:08]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:11:29:08]: Info: Offset: 0x0
+[2023:12:27:11:29:08]: Info: Resolution: 1920x1080
+[2023:12:27:11:29:08]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:11:29:08]: Info: SDR color coding [Rec. 709]
+[2023:12:27:11:29:08]: Info: Color depth: 10-bit
+[2023:12:27:11:29:08]: Info: Color range: [JPEG]
+[2023:12:27:11:29:08]: Error: [AVHWFramesContext @ 0x55fb54459c40] Unsupported format: yuv420p10le.
+[2023:12:27:11:29:08]: Info: 
+[2023:12:27:11:29:08]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2023:12:27:11:29:08]: Info: 
+[2023:12:27:11:29:08]: Info: Found H.264 encoder: h264_vaapi [vaapi]
+[2023:12:27:11:29:08]: Info: Found HEVC encoder: hevc_vaapi [vaapi]
+[2023:12:27:11:29:08]: Info: Configuration UI available at [https://localhost:47990]
+[2023:12:27:11:29:08]: Info: Adding avahi service Sunshine
+[2023:12:27:11:29:09]: Info: Avahi service Sunshine successfully established.
+[2023:12:27:13:54:11]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2023:12:27:13:54:11]: Info: Trying encoder [nvenc]
+[2023:12:27:13:54:11]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:11]: Info: Found display [wayland-1]
+[2023:12:27:13:54:11]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:11]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:11]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:11]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:11]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:11]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:11]: Info: Offset: 0x0
+[2023:12:27:13:54:11]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:11]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:11]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:11]: Info: Found display [wayland-1]
+[2023:12:27:13:54:11]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:11]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:11]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:11]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:11]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:11]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:11]: Info: Offset: 0x0
+[2023:12:27:13:54:11]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:11]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: SDR color coding [Rec. 601]
+[2023:12:27:13:54:12]: Info: Color depth: 8-bit
+[2023:12:27:13:54:12]: Info: Color range: [JPEG]
+[2023:12:27:13:54:12]: Error: [AVHWDeviceContext @ 0x7ff7e827f400] Cannot load libcuda.so.1
+[2023:12:27:13:54:12]: Error: [AVHWDeviceContext @ 0x7ff7e827f400] Could not dynamically load CUDA
+[2023:12:27:13:54:12]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:12:27:13:54:12]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: SDR color coding [Rec. 601]
+[2023:12:27:13:54:12]: Info: Color depth: 8-bit
+[2023:12:27:13:54:12]: Info: Color range: [JPEG]
+[2023:12:27:13:54:12]: Error: [AVHWDeviceContext @ 0x7ff7e80428c0] Cannot load libcuda.so.1
+[2023:12:27:13:54:12]: Error: [AVHWDeviceContext @ 0x7ff7e80428c0] Could not dynamically load CUDA
+[2023:12:27:13:54:12]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:12:27:13:54:12]: Info: Encoder [nvenc] failed
+[2023:12:27:13:54:12]: Info: Trying encoder [vaapi]
+[2023:12:27:13:54:12]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: SDR color coding [Rec. 601]
+[2023:12:27:13:54:12]: Info: Color depth: 8-bit
+[2023:12:27:13:54:12]: Info: Color range: [JPEG]
+[2023:12:27:13:54:12]: Warning: [h264_vaapi @ 0x7ff7e827edc0] Driver does not support some wanted packed headers (wanted 0xd, found 0x1).
+[2023:12:27:13:54:12]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: SDR color coding [Rec. 601]
+[2023:12:27:13:54:12]: Info: Color depth: 8-bit
+[2023:12:27:13:54:12]: Info: Color range: [JPEG]
+[2023:12:27:13:54:12]: Warning: [hevc_vaapi @ 0x7ff7d4067480] Driver does not support some wanted packed headers (wanted 0xd, found 0x1).
+[2023:12:27:13:54:12]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: SDR color coding [Rec. 601]
+[2023:12:27:13:54:12]: Info: Color depth: 8-bit
+[2023:12:27:13:54:12]: Info: Color range: [JPEG]
+[2023:12:27:13:54:12]: Error: [av1_vaapi @ 0x7ff7d4067480] No usable encoding entrypoint found for profile VAProfileAV1Profile0 (32).
+[2023:12:27:13:54:12]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2023:12:27:13:54:12]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: SDR color coding [Rec. 601]
+[2023:12:27:13:54:12]: Info: Color depth: 8-bit
+[2023:12:27:13:54:12]: Info: Color range: [JPEG]
+[2023:12:27:13:54:12]: Error: [av1_vaapi @ 0x7ff7e827edc0] No usable encoding entrypoint found for profile VAProfileAV1Profile0 (32).
+[2023:12:27:13:54:12]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2023:12:27:13:54:12]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: SDR color coding [Rec. 601]
+[2023:12:27:13:54:12]: Info: Color depth: 8-bit
+[2023:12:27:13:54:12]: Info: Color range: [JPEG]
+[2023:12:27:13:54:12]: Error: [av1_vaapi @ 0x7ff7e8115400] No usable encoding entrypoint found for profile VAProfileAV1Profile0 (32).
+[2023:12:27:13:54:12]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2023:12:27:13:54:12]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: SDR color coding [Rec. 601]
+[2023:12:27:13:54:12]: Info: Color depth: 8-bit
+[2023:12:27:13:54:12]: Info: Color range: [JPEG]
+[2023:12:27:13:54:12]: Error: [av1_vaapi @ 0x7ff7e8c4d6c0] No usable encoding entrypoint found for profile VAProfileAV1Profile0 (32).
+[2023:12:27:13:54:12]: Error: Could not open codec [av1_vaapi]: Function not implemented
+[2023:12:27:13:54:12]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: SDR color coding [Rec. 709]
+[2023:12:27:13:54:12]: Info: Color depth: 10-bit
+[2023:12:27:13:54:12]: Info: Color range: [JPEG]
+[2023:12:27:13:54:12]: Error: [AVHWFramesContext @ 0x7ff7e806e8c0] Unsupported format: yuv420p10le.
+[2023:12:27:13:54:12]: Info: 
+[2023:12:27:13:54:12]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2023:12:27:13:54:12]: Info: 
+[2023:12:27:13:54:12]: Info: Found H.264 encoder: h264_vaapi [vaapi]
+[2023:12:27:13:54:12]: Info: Found HEVC encoder: hevc_vaapi [vaapi]
+[2023:12:27:13:54:12]: Info: Executing [Desktop]
+[2023:12:27:13:54:12]: Info: Setting default sink to: [sink-sunshine-stereo]
+[2023:12:27:13:54:12]: Info: Found default monitor by name: sink-sunshine-stereo.monitor
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Name: DP-5
+[2023:12:27:13:54:12]: Info: Found monitor: VIZIO, Inc D24h-G9 (DP-5 via HDMI)
+[2023:12:27:13:54:12]: Info: Offset: 1920x156
+[2023:12:27:13:54:12]: Info: Resolution: 1366x768
+[2023:12:27:13:54:12]: Info: Screencasting with Wayland's protocol
+[2023:12:27:13:54:12]: Info: Found display [wayland-1]
+[2023:12:27:13:54:12]: Info: Found interface: zwlr_export_dmabuf_manager_v1(7) version 1
+[2023:12:27:13:54:12]: Info: Found interface: zxdg_output_manager_v1(49) version 3
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(51) version 4
+[2023:12:27:13:54:12]: Info: Found interface: wl_output(52) version 4
+[2023:12:27:13:54:12]: Info: Name: HDMI-A-1
+[2023:12:27:13:54:12]: Info: Found monitor: Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)
+[2023:12:27:13:54:12]: Info: Offset: 0x0
+[2023:12:27:13:54:12]: Info: Resolution: 1920x1080
+[2023:12:27:13:54:12]: Info: Selected monitor [Acer Technologies KA242Y 72380E77E3W01 (HDMI-A-1)] for streaming
+[2023:12:27:13:54:12]: Info: SDR color coding [Rec. 709]
+[2023:12:27:13:54:12]: Info: Color depth: 8-bit
+[2023:12:27:13:54:12]: Info: Color range: [MPEG]
+[2023:12:27:13:54:12]: Warning: [hevc_vaapi @ 0x7ff7c4230800] Driver does not support some wanted packed headers (wanted 0xd, found 0x1).
+[2023:12:27:13:54:13]: Info: CLIENT CONNECTED
+[2023:12:27:13:54:41]: Info: CLIENT DISCONNECTED
+[2023:12:27:13:54:41]: Info: Setting default sink to: [alsa_output.pci-0000_12_00.1.3.hdmi-stereo-extra3]
